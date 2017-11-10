@@ -1,0 +1,112 @@
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: update the CLI with "sudo apt-get upgrade heroku"
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at Update.run (/usr/lib/heroku/node_modules/cli-engine/lib/commands/update.js:40:46)
+    at Function.run (/usr/lib/heroku/node_modules/cli-engine-command/lib/command.js:58:17)
+    at <anonymous>Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: update the CLI with "sudo apt-get upgrade heroku"
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SimpleAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at Update.run (/usr/lib/heroku/node_modules/cli-engine/lib/commands/update.js:40:46)
+    at Function.run (/usr/lib/heroku/node_modules/cli-engine-command/lib/command.js:58:17)
+    at <anonymous>Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+2017/11/10 04:25:22 Error: Error opening web browser.
+Error: Exited with code 3
+
+Manually visit https://pure-falls-58485.herokuapp.com/ in your browser.
+    at err (/usr/lib/heroku/node_modules/heroku-cli-util/lib/open.js:10:16)
+    at ChildProcess.<anonymous> (/usr/lib/heroku/node_modules/opn/index.js:86:5)
+    at Object.onceWrapper (events.js:318:30)
+    at emitTwo (events.js:125:13)
+    at ChildProcess.emit (events.js:213:7)
+    at maybeClose (internal/child_process.js:927:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: buildpacks: is not a heroku command.
+Run heroku help buildpacks for a list of available commands.
+    at Output.error (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:208:42)
+    at NotFound.run (/usr/lib/heroku/node_modules/cli-engine/lib/not_found.js:55:14)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
+Error: heroku-cli: update available from 6.13.19 to 6.14.36-15f8a25
+    at action.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:228:41)
+    at SpinnerAction.pause (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/action.js:53:15)
+    at Output.warn (/usr/lib/heroku/node_modules/cli-engine-command/lib/output/index.js:225:17)
+    at _catch (/usr/lib/heroku/node_modules/cli-engine/lib/updater.js:336:18)
+    at <anonymous>
