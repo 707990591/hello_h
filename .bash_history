@@ -167,3 +167,71 @@ heroku domains
 hero logs
 heroku logs
 exit
+git clone https://github.com/sindresorhus/atom-editorconfig.git
+git add -A
+git commit -m "Add.editorconfig"
+exit
+exit 
+exit
+git checkout master
+git checkout -b static-pages
+rm resources/views/welcom.blade.php
+cd ~/code
+cd ~/Code
+rm resources/views/welcom.blade.php
+cd ~/sample
+cd ~
+cd ~/Code/sample
+rm resources/views/welcom.blade.php
+php artisan make:controller StaticPagesController
+php artisan route:list
+exit
+cd ~/Code
+cd ~/sample
+cd ~
+cd ~/Code/sample
+cd ~
+php artisan route:cache
+cd ~/Code/sample
+php artisan route:cache
+<?php
+namespace App\Http\Controllers;
+use App\Http\Controllers\Controller;
+class HomeController extends Controller{
+Route::get('/', 'StaticPagesController@home');
+Route::get('/help', 'StaticPagesController@help');
+Route::get('/about', 'StaticPagesController@about'); php artisan route:cache
+cd ~
+php artisan route:cache
+exit 
+cd ~/Code/sample
+php artisan route:cache
+exit
+git checkout mastet
+git checkout master
+git checkout -b static-pages
+php artisan route:cache
+cd ~/Code/sample
+php artisan route:cache
+exit
+php artisan help migrate
+cd ~/Code
+cd ~/sample
+cd ~
+cd ~/Code/sample
+php artisan help migrate
+cd ~
+cd ~/Code
+cd ~
+cd ~/Code
+composer create-project laravel/laravel sample --prefer-dist "5.5.*"
+s
+cd ~
+git checkout master
+git checkout -b static-pages
+git check static-pages
+git checkout static-pages
+php artisan make:controller StaticPagesController
+cd ~/Code/sample
+php artisan make:controller StaticPagesController
+exit
