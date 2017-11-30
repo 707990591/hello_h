@@ -235,3 +235,58 @@ php artisan make:controller StaticPagesController
 cd ~/Code/sample
 php artisan make:controller StaticPagesController
 exit
+git checkout static-pages
+git add -A
+git commit -m "Finish static pages"
+git checkout master
+git metge static-pages
+git merge static-pages
+git push
+git checkout master
+git checkout -b filling-layout-style
+yarn install --no-bin-links
+cd ~/Code/sample
+yarn install --no-bin-links
+npm run dev
+npm run watch-poll
+npm run dev
+cd ~/Code/sample
+npm run dev
+heroku create
+git push
+heroku login
+cd ~/Code/sample
+echo web: vendor/bin/heroku-php-apache2 public/ > Procfile
+git add -A
+git init
+git add -A
+git push
+heroku create
+heroku buildpacks:set heroku/php
+heroku config:set APP_KEY=base64:JQj0bzUiSYZ7BeSZd1fP10/0dbt/b69OYHAqKVeMSgo=
+git push heroku master
+heroku open
+exit
+cnpm install
+yarn install
+npm run watch-poll
+cd ~/Code/sample
+npm run watch-poll
+halt
+exit
+cd ~/Code/samplr
+cd ~/Code/sample
+</header><header class="navbar navbar-fixed-top navbar-inverse">
+npm run watch-poll
+exit
+vagrant halt
+exit
+cd !
+cd ~
+exit
+halt
+exit
+cd ~/Code/sample
+npm run watch-poll
+php artisan make:controller UsersController
+exit
