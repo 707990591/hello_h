@@ -290,3 +290,54 @@ cd ~/Code/sample
 npm run watch-poll
 php artisan make:controller UsersController
 exit
+git checkout sign-up
+git checkout master
+git refolg
+reflog
+git checkout -b sign-up
+git checkout master
+git add -A
+git checkout master
+git checkout sign-up
+$ php artisan tinker
+cd ~/Code/sample
+$ php artisan tinker
+php artisan tinker
+cd ~
+git cmmit -m "fault"
+git commit -m "fault"
+git checkout master
+git checkout Move user model to models folder
+git checkout modeling-users
+git checkout master
+git add -A 
+git commit -m "f"
+git checkout mster
+git checkout master
+git checkout modeling-users
+git checkout master
+git status
+git checkout sign-up
+git status
+git checkout master
+git status
+git checkout -f
+ll
+git branch
+git checkout static-pages
+git branch -d modeling-users
+git branch -D modeling-users
+git brach
+gir branch
+git branch
+git checkout master
+git branch
+git branch -D  sign-up
+git branch
+git branch -D static-pages
+git branch
+git add -A
+git status
+git cpmmit -m "one"
+git commit -m "one"
+exit
